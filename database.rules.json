@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "plasma": {
+      ".indexOn": [
+        "name",
+        "age",
+        "city"
+      ]
+    },
+    ".read": true,
+    ".write": true
+  }
+}
